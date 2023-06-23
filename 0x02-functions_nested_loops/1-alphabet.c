@@ -1,7 +1,12 @@
 #include "main.h"
 
 	/**
+	 * main - Entry point
+	 *
 	 * print_alphabet - print all alphabet in lowercase
+	 * description for print alphaber
+	 *
+	 * Return: Always 0(success)
 	 */
 
 
