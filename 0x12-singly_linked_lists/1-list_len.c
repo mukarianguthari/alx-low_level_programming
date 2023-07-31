@@ -5,7 +5,7 @@
  * list_len - Returns no of elements in the linked list
  * @h: pointer to the head of the list
  *
- * Teturn: The number of elements in the list
+ * Return: The number of elements in the list
  */
 
 size_t list_len(const list_t *h)
